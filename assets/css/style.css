@@ -1,23 +1,29 @@
 body {
-    background: url("../images/knitting.png");
-  }
+    background: url("https://wallscover.com/images/sports-wallpaper-9.jpg");
+   
+
+
+}
+ 
   
   .container {
     clear: both;
     margin: 0 auto;
     width: 100%;
     max-width: 960px;
+    color:white
   }
   
   .userSport {
       display: inline-block;
       margin: 10px;
+      color: white
   }
   
   button.sport {
       border-radius: 12px;
-      background-color: #263959;
-      color: white;
+      background-color:white;
+      color: black;
       padding: 5px 10px;
       text-align: center;
       text-decoration: none;
@@ -27,16 +33,18 @@ body {
   
   #sport-form {
       margin: 10px 0;
+      color: white;
   }
   
   #addSport {
       border-radius: 12px;
-      background-color: #1f6d63;
-      color: white;
+      background-color:white;
+      color: black;
       padding: 5px 10px;
       text-align: center;
-      text-decoration: none;
+      text-decoration: bold;
       font-size: 12px;
+      
       margin: 5px 0;
   }
   
